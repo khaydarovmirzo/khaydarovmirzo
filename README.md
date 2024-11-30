@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Khaydarov Mirzo
 <aside>
-🏢 I'm currently living in London, UK 🇬🇧.
-🚀 I use daily: JavaScript, Python, Git, Bash, VS Code
-💻 I work using: React, MaterialUI, ChakraUI, Node.js, MongoDB, Vercel, GitHub
+🏢 I'm currently living in Kavkaz, Russia.
+🚀 I use daily: JavaScript,NextJS, Git,  VS Code
+💻 I work using: React, Redux MaterialUI,  Click, Stripe, MongoDB, Vercel, GitHub
 ⚡️ Fun fact: I'm a huge fan of Bat Man, I love to eat and travel
 🍵 Tea Enthusiast: Can't start my day without a warm cup of tea.
 
